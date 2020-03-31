@@ -1,0 +1,22 @@
+{
+  "name": "discord-sd-bots",
+  "version": "1.0.0",
+  "description": "april fools ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikidere/discord-sd-bots.git"
+  },
+  "author": "rikidere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikidere/discord-sd-bots/issues"
+  },
+  "homepage": "https://github.com/rikidere/discord-sd-bots#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
