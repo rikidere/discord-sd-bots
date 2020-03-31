@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rikidere/discord-sd-bots#readme",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "discord.js": "^12.1.1",
+    "node-schedule": "^1.3.2"
   }
 }
